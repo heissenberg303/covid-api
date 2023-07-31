@@ -2,9 +2,11 @@
 
 > /covid/summary API will count total number of covid cases by each provinces and age range group such as '0-30, 31-60, 61+, or NA'.
 ## Requirement
-- Must use Go, Go module, and Gin framework
+- Use Go, Go module, and Gin framework
 - Create a JSON API at /covid/summary endpoint
 - Count number of cases by provinces and age group
+- Create Dockerfile
+- Implement Gitlab CI pipeline including security scan(SAST, Container Scanning, Secret Detection, Dependency Scanning), Code Quality Check, Build, and Deploy to ArgoCD.
 
 ## How to run
 ### Use Docker
