@@ -18,4 +18,4 @@
 > ```curl 'localhost:8080/covid/summary'```
 
 ## Kustomize deployment with ArgoCD
-[repo](https://github.com/heissenberg303/covid-app-deployment/)
+[repo](https://github.com/heissenberg303/covid-app-deployment)
