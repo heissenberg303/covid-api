@@ -17,5 +17,5 @@
 ### Sample curl
 > ```curl 'localhost:8080/covid/summary'```
 
-## Application deployment to kubernetes cluster
-(repo)[https://github.com/heissenberg303/covid-app-deployment/]
+## Kustomize deployment with ArgoCD
+[repo](https://github.com/heissenberg303/covid-app-deployment/)
