@@ -17,4 +17,6 @@
 ### Sample curl
 > ```curl 'localhost:8080/covid/summary'```
 
-[Kustomize deployment with ArgoCD](https://github.com/heissenberg303/covid-app-deployment)
+### Deployment
+1. Provision ArgoCD in Kubernetes cluster [repository](https://github.com/heissenberg303/argo-deployment)
+2. Deployment in Kustomization [repository](https://github.com/heissenberg303/covid-app-kustomize)
